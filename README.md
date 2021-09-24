@@ -16,12 +16,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [x] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
 <img src="http://g.recordit.co/MeU49cM7uf.gif" width=250><br>
+<img src="http://g.recordit.co/AnqnYYJXIx.gif" width=850><br>
+<img src="https://i.imgur.com/FlL4jxR.png" width=850><br>
 
 ### Notes
-Making this app was I had some issues with my ruby install and getting cocoapods to work. The `pod init` command wasn't working but that is fixed now.
+Making this app was I had some issues with my ruby install and getting cocoapods to work. The `pod init` command wasn't working but that is fixed now. Getting auto layout to work was tricky, I don't think my layout is working perfectly yet but it is almost there.
